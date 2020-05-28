@@ -1,0 +1,10 @@
+# Sum of two numbers
+def add(a,b):
+  sum= a+b 
+  retun sum
+  
+  num1=20
+  num2=30
+  
+  print(add(num1,num2))
+  
